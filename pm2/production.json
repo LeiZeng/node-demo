@@ -1,0 +1,10 @@
+{
+  "name": "app-production",
+  "script": "index.js",
+  "error_file": "err-production.log",
+  "out_file": "out-production.log",
+  "autorestart": true,
+  "merge_logs": true,
+  "node_args": "--harmony",
+  "log_date_format": "YYYY-MM-DD HH:mm Z"
+}
