@@ -10,3 +10,5 @@ Minimal dependencies Nodejs project
 
 #Testing
 `npm test`
+
+#NOTE: please use Nodejs v4.x or v5.x
